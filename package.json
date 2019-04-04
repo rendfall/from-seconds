@@ -1,6 +1,6 @@
 {
     "name": "from-seconds",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Convert seconds to minutes, hours, days, months, years...",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
