@@ -1,0 +1,40 @@
+{
+    "name": "from-seconds",
+    "version": "1.0.0",
+    "description": "Convert seconds to minutes, hours, days, months, years...",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "build": "tsc",
+        "watch": "tsc --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rendfall/from-seconds.git"
+    },
+    "keywords": [
+        "date",
+        "time",
+        "convert",
+        "seconds",
+        "minutes",
+        "hours",
+        "days",
+        "months",
+        "years",
+        "npm"
+    ],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/rendfall/from-seconds-t/issues"
+    },
+    "homepage": "https://github.com/rendfall/from-seconds#readme",
+    "devDependencies": {
+        "@types/node": "^11.13.0",
+        "typescript": "^3.4.1"
+    }
+}
