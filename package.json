@@ -2,11 +2,8 @@
     "name": "from-seconds",
     "version": "1.0.1",
     "description": "Convert seconds to minutes, hours, days, months, years...",
-    "main": "lib/index.js",
-    "types": "lib/index.d.ts",
-    "directories": {
-        "lib": "lib"
-    },
+    "main": "./lib/from-seconds.js",
+    "types": "./lib/from-seconds.d.ts",
     "scripts": {
         "build": "tsc",
         "watch": "tsc --watch"
