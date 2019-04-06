@@ -1,4 +1,7 @@
-# from-seconds
+# from-seconds ([npm](https://www.npmjs.com/package/from-seconds))
+
+[![npm version](https://badge.fury.io/js/from-seconds.svg)](https://badge.fury.io/js/from-seconds)
+
 Convert seconds to minutes, hours, days, months, years...
 
 ## Install
